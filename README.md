@@ -5,7 +5,7 @@ Script Python sederhana untuk mengubah gambar JPG/PNG dari URL menjadi teks ASCI
 ## 🔧 Cara Install
 
 ```bash
-git clone https://github.com/nightcode-dev/ascii-art-image.git
+git clone https://github.com/dapztzy5912/ascii-art-image.git
 cd ascii-art-image
 pip install -r requirements.txt
 python image_to_ascii.py
